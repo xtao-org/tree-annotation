@@ -1,4 +1,4 @@
-# the universal syntax
+# the universal syntax
 
 TAO is the first truly universal syntax for structural communication at any scale, born of a vision of total intercommunication of all software systems.
 
